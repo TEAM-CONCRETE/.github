@@ -133,6 +133,11 @@ Build-Up은 “**건설현장**의 **근로계약–근태–급여–안전**�
 - **얼굴인식 출퇴근** : 하루를 기준으로 첫번째 인식은 출근, 두번째 인식은 퇴근으로 기록해요 정상/지각 판단은 근로계약을 기준으로 진행돼요.
 <img width="1920" height="751" alt="Group 250" src="https://github.com/user-attachments/assets/d6d5c90b-5dc0-467f-8f52-1740b81b41ab" />
 
+### 📍 Features (개인안전장비(PPE)착용 여부 감지 모델)
+![PPE 감지 모델](https://github.com/user-attachments/assets/b8315f1a-1615-452d-867a-631f21f988af)
+
+
+
 <br>
 
 ### 👾 Tech Stack
